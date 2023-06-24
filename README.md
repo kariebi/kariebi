@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soroh Kariebi</h1>
 <h3 align="center">A Developer, Graphics designer and Video Editor.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kariebi&label=Profile%20views&color=0e75b6&style=flat" alt="kariebi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kariebi" alt="kariebi" /></a> </p>
-
-- 👯 I’m looking to collaborate on [Cwivel](https:github.com/vheed/Cwivel-frontend)
+- 👯 I’m looking to collaborate on [Cwivel](https:github.com/The-Vheed/Cwivel-frontend)
 
 - 💬 Ask me about **React, Anything Javascript, Vue, Django, ML and AI**
 
