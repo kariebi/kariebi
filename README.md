@@ -1,4 +1,4 @@
-<h2 align="center">I'm Soroh Kariebi</h2>
+<h2 align="center">Soroh Kariebi</h2>
 <h3 align="center">A Developer, Graphics designer and Video Editor.</h3>
 
 - 👯 I’m currently collaborating on [Cwivel](https://github.com/The-Vheed/Cwivel-frontend)
