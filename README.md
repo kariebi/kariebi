@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soroh Kariebi</h1>
 <h3 align="center">A Developer, Graphics designer and Video Editor.</h3>
 
-- 👯 I’m looking to collaborate on [Cwivel](https:github.com/The-Vheed/Cwivel-frontend)
+- 👯 I’m looking to collaborate on [Cwivel](/The-Vheed/Cwivel-frontend)
 
 - 💬 Ask me about **React, Anything Javascript, Vue, Django, ML and AI**
 
