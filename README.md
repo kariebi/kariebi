@@ -1,8 +1,7 @@
 <h2 align="center">Soroh Kariebi</h2>
 <h3 align="center">A Developer,Data Scientist, Graphics designer and Video Editor.</h3>
 
-- 👯 I’m currently collaborating on [Cwivel](https://github.com/The-Vheed/Cwivel-frontend)
-
+- 👯 I’m currently open for collaborations.
 - 💬 Ask me about **React, Anything Javascript, Vue, Django, ML and AI**
 
 - 📫 How to reach me **sorohmichael@gmail.com**
