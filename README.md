@@ -88,3 +88,8 @@
 </table>
 
 <br/>
+## GitHub Language Statistics for kariebi
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kariebi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Add additional content or sections below -->
