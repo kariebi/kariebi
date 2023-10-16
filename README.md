@@ -79,7 +79,7 @@
 <span>Other Tools</span><br><br><br>
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"  width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
 </div>
 </td>
@@ -94,8 +94,10 @@
 <!-- 
 ## GitHub Language Statistics for kariebi
 -->
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kariebi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kariebi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Kariebi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kariebi&show_icons=true&theme=radical)
+</div>
+
 
