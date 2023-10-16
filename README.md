@@ -1,4 +1,4 @@
-<h1 align="center">Soroh Kariebi</h1>
+<h1 align="center">Soroh Daukariebi Michael</h1>
 <h3 align="center">Developer </>,Data Scientist, Graphics designer and Video Editor.</h3>
 
 - 👯 I’m currently open for collaborations.
@@ -96,7 +96,7 @@
 -->
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kariebi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kariebi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Kariebi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kariebi&show_icons=true&theme=radical)
 </div>
