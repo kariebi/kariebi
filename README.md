@@ -6,13 +6,15 @@
 
 - 📫 How to reach me **sorohmichael@gmail.com**
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-GLhlTQ8iN17UqmOFKbrGFLF7ayJpgu5z9+EQfvwoN5I1a+brVc2x4+tpBqcFszlM" crossorigin="anonymous">
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/kariebi-soroh-6190a8264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kariebi" height="30" width="40" /></a>
 <a href="https://kaggle.com/kariebi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kariebi" height="30" width="40" /></a>
 <a href="https://instagram.com/kariebi._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kariebi._" height="30" width="40" /></a>
-  <a href="https://twitter.com/kariebi_" target="blank"><img align="center" src="https://www.freepik.com/icon/twitter_3670151#fromView=keyword&term=Twitter&page=1&position=0" alt="kariebi-twitter" height="30" width="40" /></a>
+  <a href="https://twitter.com/kariebi_" target="blank">
+    <i class="fa-brands fa-twitter" style="color: #00ffff;" height="30" width="40"></i>  </a>
   
   <!--
 <a href="https://www.youtube.com/c/kariebi._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kariebi._" height="30" width="40" /></a> 
