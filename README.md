@@ -18,7 +18,7 @@
 ### Languages and Tools:
 
 <table align="center">
-<tbody>
+<tbody align="center">
 <tr valign="top">
 <td width="25%" align="center">
 <span>Frontend Development</span><br><br><br>
