@@ -15,7 +15,7 @@
 <a href="https://www.youtube.com/c/kariebi._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kariebi._" height="30" width="40" /></a>
 </p>
 
-### Languages and Tools:
+<h2 align="center">Languages and Tools:</h2> 
 
 <table align="center">
 <tbody align="center">
