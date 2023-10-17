@@ -12,7 +12,10 @@
 <a href="https://www.linkedin.com/in/kariebi-soroh-6190a8264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kariebi" height="30" width="40" /></a>
 <a href="https://kaggle.com/kariebi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kariebi" height="30" width="40" /></a>
 <a href="https://instagram.com/kariebi._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kariebi._" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kariebi._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kariebi._" height="30" width="40" /></a>
+  <!--
+<a href="https://www.youtube.com/c/kariebi._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kariebi._" height="30" width="40" /></a> 
+  -->
+  
 </p>
 
 <h2 align="center">Languages and Tools:</h2> 
