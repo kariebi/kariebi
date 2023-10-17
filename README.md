@@ -2,13 +2,9 @@
 <h3 align="center">Developer </>,Data Scientist, Graphics designer and Video Editor.</h3>
 
 - 👯 I’m currently open for collaborations.
-- 💬 Ask me about **React, Anything Javascript, Vue, Django, ML and AI**
+- 💬 Ask me about **React, Next, Javascript, Vue, Django, ML and AI**
 
 - 📫 How to reach me **sorohmichael@gmail.com**
-
-## Profile Views
-
-![](https://komarev.com/ghpvc/?username=kariebi&color=blueviolet)
 
 
 <h3 align="center">Connect with me:</h3>
