@@ -1,5 +1,5 @@
 <h1 align="center">Soroh Daukariebi Michael</h1>
-<h3 align="center">Full-Stack Engineer • Systems Thinker • Web3 & Scalable Infrastructure</h3>
+<h3 align="center">Full-Stack Engineer</h3>
 
 <p align="center">
 Building high-performance web & mobile systems across fintech, SaaS, and Web3.
