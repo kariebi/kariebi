@@ -6,7 +6,7 @@ I currently work at **Execufy**, where I'm migrating infrastructure, cutting cos
 
 ---
 
-### 🛠 Stack
+### Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,7 +27,7 @@ I currently work at **Execufy**, where I'm migrating infrastructure, cutting cos
 
 ---
 
-### 🚀 What I've shipped
+### What I've shipped
 
 - **CRM + Marketplace SaaS** : Architected and led full-stack development from scratch at Execufy, designed to support 100K+ concurrent users
 - **Real-time infrastructure migration** : Replaced Convex with a Redis + Upstash pipeline, cutting projected infrastructure costs by ~40%
@@ -39,7 +39,7 @@ I currently work at **Execufy**, where I'm migrating infrastructure, cutting cos
 
 ---
 
-### 🌱 Currently exploring
+### Currently exploring
 
 - Infrastructure design patterns for high-concurrency SaaS
 - End-to-end type safety with oRPC across full-stack monorepos
@@ -47,13 +47,13 @@ I currently work at **Execufy**, where I'm migrating infrastructure, cutting cos
 
 ---
 
-### 📬 Reach me
+### Reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kariebi/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sorohmichael@gmail.com)
 
 ---
-## 🔥 Streak stats
+## Streak stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kariebi&theme=dark)](https://git.io/streak-stats)
 <br>
 
