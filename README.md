@@ -1,6 +1,6 @@
 # Ohayou, watashi wa Kariebi 👋
 
-I'm a full-stack engineer with 5+ years building production web and mobile applications — across fintech, real estate, Web3, and SaaS. I'm finishing a B.Eng. in Mechatronics Engineering at FUTO, which means I think about software the way an engineer thinks about systems: what breaks under load, what doesn't scale, and where the real bottlenecks are.
+I'm a full-stack engineer with 5+ years building production web and mobile applications across fintech, real estate, Web3, and SaaS. I'm finishing a B.Eng. in Mechatronics Engineering at FUTO, which means I think about software the way an engineer thinks about systems: what breaks under load, what doesn't scale, and where the real bottlenecks are.
 
 I currently work at **Execufy**, where I'm migrating infrastructure, cutting costs with Redis + Upstash, and helping architect a CRM + Marketplace SaaS platform from scratch.
 
