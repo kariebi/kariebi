@@ -31,7 +31,7 @@ I currently work at **Execufy**, where I'm migrating infrastructure, cutting cos
 
 ### What I've shipped
 
-- **CRM + Marketplace SaaS** : Architected and led full-stack development from scratch at Execufy, designed to support 100K+ concurrent users
+- **CRM + Marketplace SaaS** : Architected and worked hand-in-hand in development from scratch at Execufy, designed to support 100K+ concurrent users
 - **Real-time infrastructure migration** : Replaced Convex with a Redis + Upstash pipeline, cutting projected infrastructure costs by over 40%
 - **Monorepo migration** : Reorganized a multi-package codebase, standardized tooling and eliminated cross-package dependency drift
 - **Web3 transaction workflows** : Built on-chain automation on the COTI blockchain for decentralized settlement
