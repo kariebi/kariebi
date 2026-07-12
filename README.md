@@ -2,8 +2,11 @@
 
 I'm a full-stack engineer with 5+ years building production web and mobile applications across fintech, real estate, Web3, and SaaS. I'm finishing a B.Eng. in Mechatronics Engineering at FUTO, which means I think about software the way an engineer thinks about systems: what breaks under load, what doesn't scale, and where the real bottlenecks are.
 
-I currently work at **Execufy**, where I'm migrating infrastructure, cutting costs with Redis + Upstash, and helping architect a CRM + Marketplace SaaS platform from scratch.
+[![Portfolio](https://img.shields.io/badge/kariebi.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kariebi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kariebi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sorohmichael@gmail.com)
 
+I currently work at **Execufy**, where I'm migrating infrastructure, cutting costs with Redis + Upstash, and helping architect a CRM + Marketplace SaaS platform from scratch.
 ---
 
 ### Stack
@@ -46,13 +49,6 @@ I currently work at **Execufy**, where I'm migrating infrastructure, cutting cos
 - Infrastructure design patterns for high-concurrency SaaS
 - End-to-end type safety with oRPC across full-stack monorepos
 - Upstash and edge-native real-time data pipelines
-
----
-
-### Reach me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kariebi/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sorohmichael@gmail.com)
 
 ---
 ## Streak stats
