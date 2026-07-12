@@ -7,6 +7,7 @@ I'm a full-stack engineer with 5+ years building production web and mobile appli
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sorohmichael@gmail.com)
 
 I currently work at **Execufy**, where I'm migrating infrastructure, cutting costs with Redis + Upstash, and helping architect a CRM + Marketplace SaaS platform from scratch.
+
 ---
 
 ### Stack
